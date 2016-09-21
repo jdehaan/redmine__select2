@@ -4,8 +4,7 @@ services:
   - mysql
 
 rvm:
-  - 2.0
-  - 2.2
+  - 2.0.0
 
 env:
   - REDMINE_VER=2.3.4
