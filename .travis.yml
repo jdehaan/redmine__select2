@@ -32,4 +32,3 @@ before_script:
 
 script:
   - bundle exec rake redmine:plugins:test NAME=$PLUGIN_NAME
-
